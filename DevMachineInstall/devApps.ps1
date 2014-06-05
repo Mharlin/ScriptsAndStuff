@@ -6,6 +6,7 @@ cinst resharper
 cinst SpecFlow
 cinst chutzpah
 cinst phantomjs
+cinst testdriven.net
 
 # browsers
 cinst Firefox
