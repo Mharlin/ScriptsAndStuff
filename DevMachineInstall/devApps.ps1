@@ -25,3 +25,4 @@ cinst 7zip
 cinst fiddler
 cinst curl
 cinst skype
+cinst vagrant
